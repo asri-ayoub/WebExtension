@@ -1,0 +1,1 @@
+document.getElementsByName("nextButton")[0].click()

@@ -1,0 +1,2 @@
+Extension that runs in background a script to load and execute appointments for the Nanterre prefecture.
+Note: The actions are mainly based on the http://www.hauts-de-seine.gouv.fr/booking/create/13525 site.
